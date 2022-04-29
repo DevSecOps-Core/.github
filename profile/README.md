@@ -3,7 +3,7 @@
 [![logo-url][]][repo-url]
 
 # Welcome to DevSecOps <br>
-A staging ground for DevOps
+A staging ground for DevOps - We love code!
 
 </div>
 
